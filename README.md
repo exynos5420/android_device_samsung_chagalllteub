@@ -1,0 +1,1 @@
+chagalllteub (SM-T805M) device repo for LineageOS.
